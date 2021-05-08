@@ -296,13 +296,8 @@ footer {
     padding: 4rem 0 2rem;
     color: var(--dark-blue);
     opacity: 0.6;
-
-    position: absolute;
-    bottom: 0;
-    right: 0;
-    left: 0;
-
 }
+
 
 
 
@@ -318,6 +313,4 @@ footer {
         grid-template-columns: repeat(3, 1fr); /* poderia colocar tbm desta forma '1fr 1fr 1fr' */
         gap: 2rem; /* Espaço entre as frações */
     }
-
-
-}
+}    
